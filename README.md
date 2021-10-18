@@ -7,3 +7,5 @@ Title of the presentation: A comparison of accelerometer cut-points to determine
 Authors: Authors: Brian Helsel, PhD, MS, CSCS, Lauren Ptomey, PhD, RD,  MacKenzie Koester, MPH, CHES, Richard Washburn, PhD, Joseph Donnelly, EdD.  
 
 Funding: AG061187, TL1TR002368
+
+Disclosures: No relationships to disclose.
